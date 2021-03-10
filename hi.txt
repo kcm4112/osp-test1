@@ -1,2 +1,4 @@
 hello branch_2 (from local)
 edit from local - hi!hi!hi!
+---------------------------
+edit from remote to local - hi! nice to meet you!!!!!!
